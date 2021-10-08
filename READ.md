@@ -61,3 +61,11 @@ One type can be cast to another compatible type if appropriate
 ```
 
 *Note :*Casting a floating-point number to an integer simply truncates the number (rounds down)
+
+## Final Variables 
+A *final variable* or *user-defined constant(any number/name)*, identified by the keyword `final`, is a quantity whose value will not change
+
+`final double TAX.RATE = 0.08;`
+
+- Constant identifiers are, by convention, capitalized
+- `final` variable can be declared without initializing immediately 
